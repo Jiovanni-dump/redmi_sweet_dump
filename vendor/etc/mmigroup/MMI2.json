@@ -1,0 +1,165 @@
+{
+  "itemConfig": [
+    {
+      "showName": "VersionInfo"
+    },
+	{
+      "showName": "SimCard_HotPlug"
+    },
+    {
+      "showName": "Sdcard_Intent"
+    },
+    {
+      "showName": "KeyPad"
+    },
+	{
+      "showName": "TpOpenShort"
+    },
+    {
+      "showName": "LCD",
+      "paramconfig": {
+        "auto_switch": false,
+        "switch_lcd_mode": true,
+        "lcd_pic": [
+          "01_W255=2000",
+          "02_W255=2000",
+          "03_R255=2000",
+          "04_G255=2000",
+          "05_B255=2000",
+          "06_Border=2000",
+          "07_W0=2000",
+          "08_crosstalk=2000",
+          "09_W87=2000",
+          "10_W32=2000",
+          "11_W32=2000",
+          "12_gradual=2000",
+          "13_gradual=2000",
+          "14_heavyload=2000",
+          "15_W255=2000",
+          "16_W0=2000",
+          "17_crosstalk=2000",
+          "18_W87=2000",
+          "19_W32=2000",
+          "20_W32=2000",
+          "21_gradual=2000",
+          "22_gradual=2000",
+          "23_heavyload=2000",
+          "24_aod=2000",
+          "25_aod=2000"
+        ]
+      }
+    },
+    {
+      "showName": "TouchPanel"
+    },
+    {
+      "showName": "MainCamera"
+    },
+	{
+      "showName": "DepthCamera"
+    },
+    {
+      "showName": "WideCamera"
+    },
+    {
+      "showName": "MacroCamera"
+    },
+	{
+      "showName": "DualBackCamera"
+    },
+    {
+      "showName": "FrontCamera"
+    },
+    {
+      "showName": "LightTEST"
+    },
+    {
+      "showName": "Charge"
+    },
+    {
+      "showName": "WlanAP"
+    },
+	{
+      "showName": "WlanAddress"
+    },
+    {
+      "showName": "BluetoothDevice"
+    },
+	{
+      "showName": "BluetoothAddress"
+    },
+    {
+      "showName": "GPS"
+    },
+	{
+      "showName": "OTG"
+    },
+    {
+      "showName": "Magnetic"
+    },
+    {
+      "showName": "Accelerometer",
+      "paramconfig": {
+        "support_calibrate": false,
+        "support_axialresult": true,
+        "support_angle45": true,
+        "support_angleneg45": true,
+        "is_auto_calibrate": false,
+        "support_plus_or_minus_45_degrees_either_pass_through": false,
+        "autoTest": {
+          "support_calibrate": false
+        }
+      }
+    },
+    {
+      "showName": "Gyroscope",
+      "paramconfig": {
+        "support_calibrate": false,
+        "support_test": true,
+        "is_auto_calibrate": false
+      }
+    },
+    {
+      "showName": "Optical"
+    },
+    {
+      "showName": "Proximity"
+    },
+    {
+      "showName": "Speaker"
+    },
+    {
+      "showName": "Receiver"
+    },
+    {
+      "showName": "ReceiverLouder"
+    },
+	{
+      "showName": "MainMicToHeadPhone"
+    },
+	{
+      "showName": "SubMicToHeadPhone"
+    },
+    {
+      "showName": "HeadSet"
+    },
+    {
+      "showName": "FM"
+    },
+    {
+      "showName": "fingerprint"
+    },
+    {
+      "showName": "Vibrator",
+      "paramconfig": {
+        "is_auto_vibrate": false
+      }
+    },
+    {
+      "showName": "Sar"
+    },
+    {
+      "showName": "SIMCardTray"
+    }
+  ]
+}
