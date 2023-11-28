@@ -1,0 +1,17 @@
+modem.img
+vendor/lib/libMegviiFacepp-0.5.2.so
+vendor/etc/camera/megviifacepp_0_5_2_model
+vendor/lib64/libMegviiFacepp-0.5.2.so
+vendor/camera/mimoji/model2.zip
+bootimg/16_dtbdump_yt]R+FH.dtb
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
+product/app/Messages/Messages.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk
+product/priv-app/Gallery_T_Global/Gallery_T_Global.apk
+product/priv-app/MiuiCamera/MiuiCamera.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/data-app/MIBrowserGlobal_removable/MIBrowserGlobal_removable.apk
+boot.img
