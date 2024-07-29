@@ -1,0 +1,4 @@
+bootimg/16_dtbdump__qcom,rtic-id.dtb.xz
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+modem.img.xz
+boot.img.xz
