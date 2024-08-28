@@ -1,0 +1,4 @@
+product/priv-app/MiuiCamera/MiuiCamera.apk.xz
+boot.img.xz
+modem.img.xz
+bootimg/16_dtbdump_yJ_H.dtb.xz
